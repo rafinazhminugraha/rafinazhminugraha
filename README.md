@@ -1,45 +1,74 @@
-<h1 align="center">Hi 👋, I'm Rafi Nazhmi Nugraha</h1>
-<h3 align="center">Web Development and AI Enthusiast | Software Engineering Student at UPI</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3590F3&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rafi+Nazhmi;Senior+Frontend+Developer;React+%26+TypeScript+Specialist;Building+Scalable+Web+Apps" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>Software Engineering Student @ UPI | Web Development & AI Enthusiast</h3>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafi-nazhmi-nugraha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://rafinazhmi.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.instagram.com/rafnazhm" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
----
+<br/>
 
-### 🧑‍💻 About Me
+### 👨‍💻 Professional Summary
 
-- 🎓 Software Engineering Student at UPI
-- 🌐 Web Development and AI Enthusiast
-- 💡 Always learning and experimenting with new technologies
+I am a Frontend Specialist focused on building accessible, pixel-perfect, and performant web experiences. With a deep foundation in **Psychology** and **Computer Science**, I aim to bridge the gap between complex algorithms and intuitive user interfaces. Currently finalizing my thesis on the intersection of human behavior and frontend architecture.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Architecture
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E44D26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" alt="SCSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white" alt="React Query"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=flat&logo=redux&logoColor=white" alt="RTK Query"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-EF0179?style=flat&logo=framer&logoColor=white" alt="Framer Motion"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-</p>
+**Core Stack**
+<br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+**State Management & Data**
+<br>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+
+**Styling & Animation**
+<br>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 
 ---
 
-### 📫 Connect with me
+### 📊 Coding Activity & Stats
 
-- [LinkedIn](https://www.linkedin.com/in/rafi-nazhmi-nugraha)
-- [Instagram](https://www.instagram.com/rafnazhm)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafinazhminugraha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinazhminugraha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Top Languages" />
+</div>
 
----
+<br/>
+
+<h3 align="center">Algorithmic Proficiency</h3>
+<div align="center">
+  <a href="https://leetcode.com/rafinazhminugraha/">
+    <img src="https://leetcard.jacoblin.cool/rafinazhminugraha?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rafinazhminugraha&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+</div>
