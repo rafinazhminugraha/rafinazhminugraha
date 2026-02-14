@@ -1,11 +1,11 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3590F3&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rafi+Nazhmi;Senior+Frontend+Developer;React+%26+TypeScript+Specialist;Building+Scalable+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3590F3&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rafi+Nazhmi;Frontend+Developer;React+%26+TypeScript+Specialist;Building+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <h3>Software Engineering Student @ UPI | Web Development & AI Enthusiast</h3>
+  <h3>Software Engineering Student @ UPI | Frontend Web Developer</h3>
 </div>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ### 👨‍💻 Professional Summary
 
-I am a Frontend Specialist focused on building accessible, pixel-perfect, and performant web experiences. With a deep foundation in **Psychology** and **Computer Science**, I aim to bridge the gap between complex algorithms and intuitive user interfaces. Currently finalizing my thesis on the intersection of human behavior and frontend architecture.
+Detail oriented Frontend Engineer with a strong foundation in Graphic Design, focused on crafting visually precise and performant web interfaces. Experienced in building production ready applications using React, TypeScript, and Tailwind CSS. Comfortable collaborating in agile, cross-functional teams and translating design concepts into scalable and maintainable code. Highly motivated to grow in global engineering environments.
 
 ---
 
@@ -71,5 +71,5 @@ I am a Frontend Specialist focused on building accessible, pixel-perfect, and pe
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rafinazhminugraha&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </div>
