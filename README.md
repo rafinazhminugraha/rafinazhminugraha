@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3590F3&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rafi+Nazhmi;Senior+Frontend+Developer;React+%26+TypeScript+Specialist;Building+Scalable+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3590F3&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rafi+Nazhmi;Senior+Frontend+Developer;React+%26+TypeScript+Specialist;Building+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
 </div>
 
@@ -55,6 +55,7 @@ I am a Frontend Specialist focused on building accessible, pixel-perfect, and pe
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafinazhminugraha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="GitHub Stats" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinazhminugraha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Top Languages" />
 </div>
 
@@ -63,12 +64,12 @@ I am a Frontend Specialist focused on building accessible, pixel-perfect, and pe
 <h3 align="center">Algorithmic Proficiency</h3>
 <div align="center">
   <a href="https://leetcode.com/rafinazhminugraha/">
-    <img src="https://leetcard.jacoblin.cool/rafinazhminugraha?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/rafinazhminugraha?theme=dark&font=Inter" alt="LeetCode Stats" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafinazhminugraha&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </div>
