@@ -51,13 +51,8 @@ Detail oriented Frontend Engineer with a strong foundation in Graphic Design, fo
 
 ---
 
-### 📊 Coding Activity & Stats
+### 📊 Coding Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafinazhminugraha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_rank=true" height="160" alt="GitHub Stats" />
-</div>
-
-<br/>
 
 <h3 align="center">Algorithmic Proficiency</h3>
 <div align="center">
