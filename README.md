@@ -1,68 +1,38 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3590F3&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rafi+Nazhmi;Frontend+Developer;React+%26+TypeScript+Specialist;Building+Scalable+Web+Apps" alt="Typing SVG" />
-  </a>
-</div>
+# Rafi Nazhmi Nugraha
 
-<div align="center">
-  <h3>Software Engineering Student @ UPI | Frontend Web Developer</h3>
-</div>
+Frontend Developer · Software Engineering @ UPI
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rafi-nazhmi-nugraha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://rafinazhmi.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.instagram.com/rafnazhm" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
-<br/>
-
-### 👨‍💻 Professional Summary
-
-Detail oriented Frontend Engineer with a strong foundation in Graphic Design, focused on crafting visually precise and performant web interfaces. Experienced in building production ready applications using React, TypeScript, and Tailwind CSS. Comfortable collaborating in agile, cross-functional teams and translating design concepts into scalable and maintainable code. Highly motivated to grow in global engineering environments.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafi-nazhmi-nugraha)
+[![Portfolio](https://img.shields.io/badge/Portfolio-101010?style=flat-square&logo=vercel&logoColor=white)](https://rafinazhmi.vercel.app)
 
 ---
 
-### 🛠️ Technical Architecture
-
-**Core Stack**
-<br>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-**State Management & Data**
-<br>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-
-**Styling & Animation**
-<br>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+Frontend engineer with a graphic design background. I build production-ready interfaces using React and TypeScript, with a focus on clean component architecture, accessible UI, and maintainable code. Comfortable working in agile teams and taking designs from Figma to shipped feature.
 
 ---
 
-### 📊 Coding Activity
+## Tech stack
 
+**Foundation**
+`HTML` `CSS` `JavaScript` `TypeScript`
 
-<h3 align="center">Algorithmic Proficiency</h3>
-<div align="center">
-  <a href="https://leetcode.com/rafinazhminugraha/">
-    <img src="https://leetcard.jacoblin.cool/rafinazhminugraha?theme=dark&font=Inter" alt="LeetCode Stats" />
-  </a>
-</div>
+**Framework & UI**
+`React` `Tailwind CSS` `shadcn/ui`
 
-<br/>
+**State, data & routing**
+`Zustand` `Redux Toolkit` `TanStack Query` `Axios` `React Router`
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafinazhminugraha&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-</div>
+**Forms & validation**
+`React Hook Form` `Zod`
+
+**Testing**
+`Vitest` `React Testing Library`
+
+---
+
+## Pinned Projects
+
+| Project | Description | Stack | Live |
+|---|---|---|---|
+| [Talas](https://talas-app.vercel.app) | Social platform for developers — projects, nested comments, collaborator roles, real-time notifications | Next.js, tRPC, Prisma, Zustand, Clerk | [↗](https://talas-app.vercel.app) |
+| [Gamicus](https://gamicus-nazhmi.vercel.app) | Game discovery app — infinite scroll, debounced search, Zod-validated API responses, full unit test coverage | React, TanStack Query, Zustand, Zod, Vitest | [↗](https://gamicus-nazhmi.vercel.app) |
