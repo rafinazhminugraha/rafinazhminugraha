@@ -1,6 +1,6 @@
 # Rafi Nazhmi Nugraha
 
-Frontend Developer · Software Engineering @ UPI
+Frontend Developer · rafinazhminugraha@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafi-nazhmi-nugraha)
 [![Portfolio](https://img.shields.io/badge/Portfolio-101010?style=flat-square&logo=vercel&logoColor=white)](https://rafinazhmi.vercel.app)
