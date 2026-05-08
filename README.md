@@ -5,9 +5,12 @@ Frontend Developer · rafinazhminugraha@gmail.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafi-nazhmi-nugraha)
 [![Portfolio](https://img.shields.io/badge/Portfolio-101010?style=flat-square&logo=vercel&logoColor=white)](https://rafinazhmi.vercel.app)
 
+
+## [ About ]
+
 Frontend engineer with a graphic design background. I build production-ready interfaces using React and TypeScript, with a focus on clean component architecture, accessible UI, and maintainable code. Comfortable working in agile teams and taking designs from Figma to shipped feature.
 
-## [Tech stack]
+## [ Tech stack ]
 
 **Foundation**
 `HTML` `CSS` `JavaScript` `TypeScript`
@@ -24,7 +27,7 @@ Frontend engineer with a graphic design background. I build production-ready int
 **Testing**
 `Vitest` `React Testing Library`
 
-## [Pinned Projects]
+## [ Pinned Projects ]
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
