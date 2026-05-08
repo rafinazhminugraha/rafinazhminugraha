@@ -30,6 +30,10 @@ Frontend engineer with a graphic design background. I build production-ready int
 
 `Vitest` `React Testing Library`
 
+**Tooling**
+
+`Git` `GitHub` `Jira` `Notion`
+
 ## [ Pinned Projects ] 
 
 | Project | Description | Stack | Live |
