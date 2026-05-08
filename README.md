@@ -13,7 +13,7 @@ Frontend engineer with a graphic design background. I build production-ready int
 `HTML` `CSS` `JavaScript` `TypeScript`
 
 **Framework & UI**
-`React` `Tailwind CSS` `shadcn/ui`
+`Next.js` `React` `Tailwind CSS` `shadcn/ui`
 
 **State, data & routing**
 `Zustand` `Redux Toolkit` `TanStack Query` `Axios` `React Router`
